@@ -1,0 +1,57 @@
+
+div {
+    text-align: center;
+    background-color: rgb(255, 241, 241);
+    border:1px solid rgb(213, 196, 199);
+    border-radius: 10px;
+    margin: 5px;
+}
+
+
+section{
+    text-align: center;
+    background-color: rgb(173, 224, 222);
+    border-radius: 10px;
+    border: 1px solid rgb(213, 196, 199);
+    margin: 5px;
+}
+p{
+    display: block;
+}
+.dtwo{
+    margin-top: -5px;
+    height: 560px;
+}
+.stwo{
+    margin-top: -1px;
+    width: 450px;
+    height: 503px;
+    float: left;
+}
+
+.sthree{
+    margin-left: 455px;
+    width: 1045px;
+
+}
+.dfour{
+    margin-top: -5px;
+}
+
+.sfour {
+    height: 163px;
+    width: 510px;
+    
+}
+
+.sfive{
+    margin-top: -1px;
+    float: right;
+    height: 163px;
+    width: 510px;
+}
+
+.ssix{
+
+    height: 165px;
+}
